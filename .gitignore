@@ -45,7 +45,6 @@ dist/
 
 # Data & Models (Keep small demo data, ignore large ones)
 *.csv
-!model_ready_lite_sample.csv
 *.h5
 *.keras
 *.npy
@@ -56,4 +55,4 @@ dist/
 # Logs
 *.log
 backend.log
-Kaynak_Kod/Backend/model_ready_lite_sample.csv
+Kaynak_Kod/Backend/model_ready_full.csv
